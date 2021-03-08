@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 -  I’m currently working on  Data Science, Machine Learning, Deep Learning
--  I’m currently Learning on Reinforcement Learning, AWS, Docker
+-  I’m currently Learning on Reinforcement Learning, AWS
 -  Fun fact: I am a Star Wars Fan (Not Disney)
 - ![Image of Hello There](https://github.com/batuhan3526/batuhan3526/blob/main/helloo%20world.jpeg)
 
